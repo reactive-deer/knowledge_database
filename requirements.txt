@@ -34,6 +34,6 @@ requests==2.32.2
 six==1.15.0
 smmap==3.0.4
 soupsieve==2.0.1
-tornado==6.0.4
+tornado==6.4.1
 tqdm==4.66.3
 urllib3==1.26.5
